@@ -61,4 +61,4 @@ Chenglin Liu
 
 Email: liuchenglin080@gmail.com
 
-GitHub: https://github.com/AN0080/Data-Mining-Project.git
+GitHub: https://github.com/AN0080/CS422-Data-Mining-Project.git
